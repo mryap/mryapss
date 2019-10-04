@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C2CCB2EC",
-    "lastKnownWriteTime" : 1570177076,
-    "last_content_update" : 1570177076,
+    "lastKnownWriteTime" : 1570189190,
+    "last_content_update" : 1570189190359,
     "path" : "~/Turn indicator variables into labelled factors.Rmd",
     "project_path" : null,
     "properties" : {
         "chunk_output_type" : "inline",
-        "cursorPosition" : "31,3",
+        "cursorPosition" : "13,7",
         "scrollLine" : "0"
     },
     "read_only" : false,
