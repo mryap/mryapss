@@ -1,0 +1,8 @@
+"0","```r
+cleaningData <- function(data, startrow, columnyear, year, colsToKeep, columnNames) {
+  df <- data[c(startrow:nrow(data)) & data[[columnyear]] == year, ]
+  df <- df[ , colsToKeep]
+  names(df) <- columnNames
+  df
+}
+```"

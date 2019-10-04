@@ -1,0 +1,5 @@
+"0","dataImport <- function(dataurl) {"
+"0","  url <- dataurl"
+"0","  dl <- getURL(dataurl, ssl.verifyhost=FALSE, ssl.verifypeer=FALSE)"
+"0","  read.csv(textConnection(dl), header=T)"
+"0","}"

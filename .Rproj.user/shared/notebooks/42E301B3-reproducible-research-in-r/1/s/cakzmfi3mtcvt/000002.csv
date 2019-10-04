@@ -1,0 +1,6 @@
+"0","```r
+life <- cleaningData(life, 2, \"X.1\", \" 2015\", c(\"X\", \"X.1\", \"Life.expectancy.at.birth..years.\"),
+                      c(\"Country\", \"Year\", \"LifeExpectancy\"))
+```"
+"1","longer object length is not a multiple of shorter object length
+"

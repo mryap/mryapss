@@ -1,0 +1,6 @@
+"0","# Turn indicator variables into labelled factors"
+"0","birthwt$low <- factor(birthwt$low, labels = c(""Above 2.5kgs"", ""Below 2.5kgs""))"
+"0","birthwt$race <- factor(birthwt$race, labels = c(""White"", ""Black"", ""Other""))"
+"0","birthwt$smoke <- factor(birthwt$smoke, labels = c(""Non-smoker"", ""Smoker""))"
+"0","birthwt$ht <- factor(birthwt$ht, labels = c(""No HT"", ""HT""))"
+"0","birthwt$ui <- factor(birthwt$ui, labels = c(""No UI"", ""UI""))"

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570177298230.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2816748180",
+    "id" : "750C5DE7",
+    "lastKnownWriteTime" : 1568906002,
+    "last_content_update" : 1568906002,
+    "path" : "~/Project/portfolio/01-intro.Rmd",
+    "project_path" : "01-intro.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

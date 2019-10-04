@@ -1,0 +1,4 @@
+"0","# list the structure"
+"0","str(life)"
+"2","Error in str(life) : object 'life' not found
+"

@@ -1,0 +1,5 @@
+"0","```r
+names(life)
+```"
+"1","[1] \"Country\"        \"Year\"           \"LifeExpectancy\"
+"

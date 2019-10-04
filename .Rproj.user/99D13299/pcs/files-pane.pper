@@ -1,0 +1,9 @@
+{
+    "path" : "~/Project/portfolio",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

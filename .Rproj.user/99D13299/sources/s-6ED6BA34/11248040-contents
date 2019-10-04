@@ -1,0 +1,30 @@
+# Applications
+
+Some _significant_ applications are demonstrated in this chapter.
+
+## Turn indicator variables into labelled factors
+
+```{r}
+data(birthwt, package="MASS")
+birthwt
+```
+
+```{r}
+# Turn indicator variables into labelled factors
+birthwt$low <- factor(birthwt$low, labels = c("Above 2.5kgs", "Below 2.5kgs"))
+birthwt$race <- factor(birthwt$race, labels = c("White", "Black", "Other"))
+birthwt$smoke <- factor(birthwt$smoke, labels = c("Non-smoker", "Smoker"))
+birthwt$ht <- factor(birthwt$ht, labels = c("No HT", "HT"))
+birthwt$ui <- factor(birthwt$ui, labels = c("No UI", "UI"))
+```
+
+```{r}
+table(birthwt$low)
+```
+
+
+
+```{r}
+birthwt
+```
+## Example two

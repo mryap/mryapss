@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570177325108.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8765B0C5",
+    "lastKnownWriteTime" : 1568906384,
+    "last_content_update" : 1568906384,
+    "path" : "~/Project/portfolio/07-others.Rmd",
+    "project_path" : "07-others.Rmd",
+    "properties" : {
+        "cursorPosition" : "0,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
